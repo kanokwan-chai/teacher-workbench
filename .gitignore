@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel
+
+# Environment variables (keep example only)
+.env
+.env*.local
+!.env.local.example
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Logs & OS files
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Temporary scratch
+scratch/
